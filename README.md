@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello 🦭
+
+I'm Sharon and I hope to show case some of the cool projects I have worked on here. 
+
+
+
+
 
 <!--
 **SharonGomez/SharonGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
