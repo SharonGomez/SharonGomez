@@ -1,8 +1,10 @@
 ## Hello 🦭
 
-I'm Sharon and I hope to show case some of the cool projects I have worked on here. 
+I'm Sharon and I hope to show case some of the projects I have worked on here. 
 
-
+|  <img  src="https://github.com/SharonGomez/vr-library/blob/main/Unity/Demos/login.gif"  width="250" height="250"  alt="Login to the VR library"/>|
+|:--:|
+| <p align="justify">Testing how tables look on main page</p>|
 
 
 
