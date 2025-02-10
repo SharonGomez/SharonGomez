@@ -1,15 +1,15 @@
-## Hello 🦭
+## Hello, I'm Sharon. 🦭
 
-I'm Sharon and I hope to show case some of the projects I have worked on here. 
+I have been working as a gameplay programmer for the AAA title, Mafia: The Old Country, which is probably the coolest thing I have done in my life.
+Here's the link to the trailer to the upcoming title 💃.
 
-### Mafia: The Old Country
-I have been working as a gameplay programmer for Mafia: The Old Country.
+[<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/Mafia.png" max-width="400px" height="auto"/>](https://www.youtube.com/watch?v=lkdV6NxPOLc "Trailer to Mafia: The Old Country")
 
-  [<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/Mafia.png" max-width="400px" height="auto"/>](https://www.youtube.com/watch?v=lkdV6NxPOLc "Trailer to Mafia: The Old Country")
-  
+I got this opportunity right after my Master's in Computer Science with a specialisation in Augmented and Virtual Reality from Trinity College Dublin. I also have nearly two years of experience as a web developer.
+
 ### Projects
 
-Please click on icons to go to repo and read more about project and see demo snippets.
+Please click on icons below to go to repo and read more about some of the projects I have done and see their demo snippets.
 
 |  [<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/speech-therapy.png" max-width="350px" height="auto"/>]( https://github.com/SharonGomez/speech-therapy "Speech Therapy")|[<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/vr-library.png" max-width="350px" height="auto"/>]( https://github.com/SharonGomez/vr-library "VR Library") |
 |:--:|:--:|
