@@ -14,8 +14,8 @@ Please click on icons to go to repo and read more about project and see demo sni
 |  [<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/speech-therapy.png" max-width="350px" height="auto"/>]( https://github.com/SharonGomez/speech-therapy "Speech Therapy")|[<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/vr-library.png" max-width="350px" height="auto"/>]( https://github.com/SharonGomez/vr-library "VR Library") |
 |:--:|:--:|
 | <p align="center"> SpeechTherapy for Aphasia Patients. (Unreal Engine 5 - Blueprints, C++) </p>|<p align="center">VR Library. (Unity - C#, MetaQuest, Photon Engine, Firebase, React.js)</p>|
-|  [<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/rage-room.png" max-width="350px" height="auto"/>]( https://github.com/SharonGomez/rage-room "Rage Room")|
-| <p align="center">Rage Room. (Unity - C#, MetaQuest)</p>|
+|  [<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/rage-room.png" max-width="350px" height="auto"/>]( https://github.com/SharonGomez/rage-room "Rage Room")| [<img src="https://github.com/SharonGomez/icarus-game/blob/main/Demos/enemies.gif" max-width="350px" height="auto"/>]( https://github.com/SharonGomez/rage-room](https://github.com/SharonGomez/icarus-game "Icarus")|
+| <p align="center">Rage Room. (Unity - C#, MetaQuest)</p>|<p align="center">Icarus - planet themed strategy game jam game. (Unreal Engine - C++, Blueprints)</p>|
 
 <!--
 **SharonGomez/SharonGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
