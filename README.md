@@ -9,7 +9,7 @@ I got this opportunity right after my Master's in Computer Science with a specia
 
 ### Projects
 
-Please click on icons below to go to repo and read more about some of the projects I have done and see their demo snippets.
+Please click on icons below to go to repo and read more about some of the projects I have done and see their demo snippets:
 
 |  [<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/speech-therapy.png" max-width="350px" height="auto"/>]( https://github.com/SharonGomez/speech-therapy "Speech Therapy")|[<img src="https://github.com/SharonGomez/SharonGomez/blob/main/images/vr-library.png" max-width="350px" height="auto"/>]( https://github.com/SharonGomez/vr-library "VR Library") |
 |:--:|:--:|
